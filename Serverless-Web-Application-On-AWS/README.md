@@ -3,7 +3,7 @@
 This project demonstrates a basic serverless web application on AWS using static hosting and backend data processing with AWS-managed services. The project focuses on learning how AWS services integrate in a serverless setup.
 
 # Architecture Overview
-![Serverless Web Application Architecture](Serverless-Web-Application-On-AWS/Architecture_Overview.png)
+![Serverless Web Application Architecture](./Architecture_Overview.png)
 
 # AWS Services Used
 1. Amazon S3 - Hosts static website files (HTML, CSS, JavaScript)
